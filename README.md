@@ -1,16 +1,10 @@
-# reels
+# Instagram Reels Clone Projesi Hakkında
 
-A new Flutter project.
+Günümüzün popüler sosyal medya uygulaması Instagram tiktok tarzı bir platform çıkardı bu platform insanların kısa süreli videolar çekip paylaştığı yerdir.
+Instagram Reels Clone , Gerceğe yakın şekilde kodlanmıştır tabi ki ileride tiktok kullanılan cdn servis erişimi kaldıracaktır fakat siz kendi videolarınızın linkini koyabilirsiniz.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+KEŞFET | GIF | SES ICERIGI
+-|-|-
+<img height="400" src="https://user-images.githubusercontent.com/75476607/118415228-e4dbaa80-b6b1-11eb-9582-0979386bb9d8.jpg"/> | <img height="400" src="https://user-images.githubusercontent.com/75476607/118414960-4ac73280-b6b0-11eb-8b13-a8cad5c49d06.gif"/> | <img height="400" src="https://user-images.githubusercontent.com/75476607/118415227-e4431400-b6b1-11eb-8d46-858118aef0ea.jpg"/>
